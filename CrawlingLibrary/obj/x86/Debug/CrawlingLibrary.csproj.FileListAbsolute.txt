@@ -1,0 +1,4 @@
+C:\Users\Dastagir\Documents\Visual Studio 2015\Projects\CrawlingLibrary\CrawlingLibrary\bin\x86\Debug\CrawlingLibrary.dll
+C:\Users\Dastagir\Documents\Visual Studio 2015\Projects\CrawlingLibrary\CrawlingLibrary\bin\x86\Debug\CrawlingLibrary.pdb
+C:\Users\Dastagir\Documents\Visual Studio 2015\Projects\CrawlingLibrary\CrawlingLibrary\obj\x86\Debug\CrawlingLibrary.dll
+C:\Users\Dastagir\Documents\Visual Studio 2015\Projects\CrawlingLibrary\CrawlingLibrary\obj\x86\Debug\CrawlingLibrary.pdb
